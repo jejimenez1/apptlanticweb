@@ -25,6 +25,7 @@
       "package": "com.jesujimenez.Apptlantic"
     },
     "web": {
+      "bundler": "metro",
       "favicon": "./assets/favicon.png"
     },
     "extra": {
@@ -32,5 +33,6 @@
         "projectId": "2d5bbf60-6d90-4dcd-a44e-e785673a4f39"
       }
     }
+    
   }
 }
